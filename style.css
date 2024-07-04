@@ -1,0 +1,33 @@
+body {
+    background: #1B3936;
+}
+
+.menu {
+    margin: 0px 160px 0px 160px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    color: #56bc58;
+    gap: 10px;
+}
+
+/* Banner */
+.banner {
+    height: 1400px;
+    border: #fff 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
